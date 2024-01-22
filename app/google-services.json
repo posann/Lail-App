@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "999504658062",
+    "project_id": "lail-69d2e",
+    "storage_bucket": "lail-69d2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999504658062:android:11a971777b1bf34f3813df",
+        "android_client_info": {
+          "package_name": "com.posann.lail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999504658062-d9n97e5m2nl72438b28c2tb91gm95893.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.posann.lail",
+            "certificate_hash": "1ed7f1971a37db3bbe7f8e1de23607954bddf680"
+          }
+        },
+        {
+          "client_id": "999504658062-r6anvr4b3ffgl83fdvm6390prh40dkpl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9WJK7X935Y0v6-v5PJdQ2MGYgmITzksg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999504658062-0g44db3m8srcj58lbhs38a3s5pdlqbqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
